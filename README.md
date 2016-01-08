@@ -4,12 +4,12 @@
 [![travis](http://img.shields.io/travis/deepsweet/babel-istanbul-loader.svg?style=flat-square)](https://travis-ci.org/deepsweet/babel-istanbul-loader)
 [![deps](http://img.shields.io/david/deepsweet/babel-istanbul-loader.svg?style=flat-square)](https://david-dm.org/deepsweet/babel-istanbul-loader)
 
-Instrument Babel code with [babel-istanbul-loader](https://github.com/ambitioninc/babel-istanbul) for subsequent code coverage reporting.
+Instrument Babel code with [babel-istanbul](https://github.com/ambitioninc/babel-istanbul) for subsequent code coverage reporting.
 
 ### Install
 
 ```sh
-$ npm i -D babel-istanbul-loader
+$ npm i babel-istanbul-loader --save-dev
 ```
 
 ### Setup
