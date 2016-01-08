@@ -1,6 +1,7 @@
 ## babel-istanbul instrumenter loader for [webpack](https://webpack.github.io/)
 
 [![npm](http://img.shields.io/npm/v/babel-istanbul-loader.svg?style=flat-square)](https://www.npmjs.org/package/babel-istanbul-loader)
+[![travis](http://img.shields.io/travis/deepsweet/babel-istanbul-loader.svg?style=flat-square)](https://travis-ci.org/deepsweet/babel-istanbul-loader)
 [![deps](http://img.shields.io/david/deepsweet/babel-istanbul-loader.svg?style=flat-square)](https://david-dm.org/deepsweet/babel-istanbul-loader)
 
 Instrument Babel code with [babel-istanbul-loader](https://github.com/ambitioninc/babel-istanbul) for subsequent code coverage reporting.
