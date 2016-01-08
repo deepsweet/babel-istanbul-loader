@@ -24,8 +24,7 @@
     "lint": "eslint .",
     "test": "npm run lint",
     "travis": "npm test",
-    "prepush": "npm test",
-    "prepublish": "npm run build"
+    "prepush": "npm test"
   },
   "engines": {
     "node": ">=0.10.0"
