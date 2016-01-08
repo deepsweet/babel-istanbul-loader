@@ -1,0 +1,34 @@
+{
+  "name": "babel-istanbul-loader",
+  "version": "0.0.1",
+  "description": "babel-istanbul loader for webpack",
+  "keywords": [ "webpack", "loader", "babel", "istanbul", "coverage" ],
+  "homepage": "https://github.com/deepsweet/babel-istanbul-loader",
+  "repository": "deepsweet/babel-istanbul-loader",
+  "author": "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "object-assign": "4.0.x",
+    "babel-istanbul": "0.5.x",
+    "babel-loader": "6.2.x"
+  },
+  "devDependencies": {
+    "husky": "0.10.x",
+    "eslint": "1.10.x"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint",
+    "travis": "npm test",
+    "prepush": "npm test",
+    "prepublish": "npm run build"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT"
+}
