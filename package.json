@@ -1,6 +1,6 @@
 {
   "name": "babel-istanbul-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "babel-istanbul loader for webpack",
   "keywords": [ "webpack", "loader", "babel", "istanbul", "coverage" ],
   "homepage": "https://github.com/deepsweet/babel-istanbul-loader",
