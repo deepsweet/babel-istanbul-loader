@@ -15,7 +15,7 @@
     "object-assign": "4.0.x",
     "babel-istanbul": "0.5.x",
     "babel-loader": "6.2.x",
-    "loader-utils": "0.12.x"
+    "loader-utils": "0.2.x"
   },
   "devDependencies": {
     "husky": "0.10.x",
