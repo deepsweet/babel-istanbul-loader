@@ -1,6 +1,6 @@
 {
   "name": "babel-istanbul-loader",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "babel-istanbul loader for webpack",
   "keywords": [ "webpack", "loader", "babel", "istanbul", "coverage" ],
   "homepage": "https://github.com/deepsweet/babel-istanbul-loader",
@@ -13,9 +13,11 @@
   ],
   "dependencies": {
     "object-assign": "4.0.x",
-    "babel-istanbul": "0.5.x",
     "babel-loader": "6.2.x",
     "loader-utils": "0.2.x"
+  },
+  "peerDependencies": {
+    "babel-istanbul": "0.5.x || 0.6.x"
   },
   "devDependencies": {
     "husky": "0.10.x",
