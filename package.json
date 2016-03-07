@@ -15,7 +15,7 @@
     "loader-utils": "0.2.x"
   },
   "devDependencies": {
-    "husky": "0.10.x",
+    "husky": "0.11.x",
     "eslint": "1.10.x"
   },
   "scripts": {
