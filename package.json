@@ -7,10 +7,7 @@
   "repository": "deepsweet/babel-istanbul-loader",
   "author": "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
   "main": "index.js",
-  "files": [
-    "index.js",
-    "LICENSE"
-  ],
+  "files": [ "index.js" ],
   "dependencies": {
     "object-assign": "4.0.x",
     "babel-istanbul": "0.6.x",
