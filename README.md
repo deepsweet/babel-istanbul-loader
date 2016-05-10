@@ -102,6 +102,9 @@ config.set({
 });
 ```
 
+#### .babelrc
+Put [babel options](https://babeljs.io/docs/usage/babelrc/) into a `.babelrc` file in the project root. Babel options in the webpack config or package.json will not be read.
+
 #### Options
 
 * `istanbul` – [istanbul instrumenter options](https://gotwarlost.github.io/istanbul/public/apidocs/classes/InstrumentOptions.html).
