@@ -6,6 +6,8 @@
 
 Instrument Babel code with [babel-istanbul](https://github.com/ambitioninc/babel-istanbul) for subsequent code coverage reporting.
 
+**This package is DEPRECATED in favor of [babel-plugin-istanbul](https://github.com/istanbuljs/babel-plugin-istanbul).**
+
 ### Install
 
 ```sh
