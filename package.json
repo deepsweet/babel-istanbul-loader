@@ -17,14 +17,14 @@
     "index.js"
   ],
   "dependencies": {
-    "babel-istanbul": "^0.12.1",
+    "babel-istanbul": "0.12.x",
     "babel-loader": "6.2.x",
     "loader-utils": "0.2.x",
-    "object-assign": "^4.1.1"
+    "object-assign": "4.1.x"
   },
   "devDependencies": {
-    "eslint": "^3.13.1",
-    "husky": "^0.12.0"
+    "eslint": "3.13.x",
+    "husky": "0.12.x"
   },
   "scripts": {
     "lint": "eslint .",
