@@ -10,7 +10,7 @@
   "files": [ "index.js" ],
   "dependencies": {
     "object-assign": "4.0.x",
-    "babel-istanbul": "0.6.x",
+    "babel-istanbul": "0.8.x",
     "babel-loader": "6.2.x",
     "loader-utils": "0.2.x"
   },
